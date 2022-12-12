@@ -8,7 +8,7 @@ Test Hangul  broken characters on utf-8, euc-kr with javascript. <br>
   <td> javascript version </br>
  test page
     </td>
-      <td>   https://.github.io/
+      <td>   https://hangulnara.github.io/
         </td>
   </tr>
    <tr>
